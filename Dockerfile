@@ -1,4 +1,6 @@
-FROM node:latest
+# FROM node:latest
+
+FROM centos:latest
 
 WORKDIR /usr/src/app
 
